@@ -12,19 +12,21 @@ The purpose of the Challenge was to clean the information used in the original S
 
 ## Results
 
-Given that only Thomas High School's ninth grade scores were cleaned to adjust incorrect information, out of the 7 metrics associated with each school, Total Students and Spending per Student were not affected at any level by the alteration of the data. In consequence, in what remains of this section, these two metrics will not be addressed.
+The pertinent metrics associated with most of the results are Total Students (TS), Per Student Budget (SB), Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP). 
+
+Given that only Thomas High School's ninth grade scores were cleaned to adjust incorrect information, and these are involved only in the calculation of AMS, ARS, PM, PR, and OP, both TS and SB will not be addressed in the remaining of this section, as results for these two metrics in the new analysis were identical to those made previously in the original analysis. (Note that this implies that for all results related to AMS, ARS, PM, PR, and OP, the cleaning of the data did produce an alteration on the metric. However, not in all cases was the alteration significant enough as to create a difference in the final metric because the final metric was rounded for presentation purposes.) Any omission of the aforementioned 5 metrics in the following subsections is to be interpreted as implying that the metric did not sufffer significant changes in the new analysis.
 
 ### District Summary
 
-* Given that the District Summary represents aggregation up to the district level, the original results were negatively affected by the cleaning of the data.
+* Given that the District Summary represents aggregation up to the district level, metrics AMS, PM, PR, and OP were all negatively affected by the cleaning of the data.
 
 ### School Summary
 
-* Given that the School Summary represents aggregation up to the school level, only Thomas High School's results were negatively affected by the cleaning of the data.
+* Given that the School Summary represents aggregation up to the school level, only Thomas High School's results were affected by the cleaning of the data. Specifically, PM, PR, and OP, saw a decrease in the new analysis with respect to the original.
 
 ### Thomas High School's Performance Relative to Other Schools
 
-* Thomas High School's performance, as measured by Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP), was negatively affected by the cleaning of the data in four out of five metrics (that is, all but ARS).
+* Thomas High School's performance, as measured by AMS, PM, PR, and OP, was negatively affected, relative to other schools, by the removal of incorrect scores information for ninth graders associated with that school.
 
 ### Math and Reading Scores by Grade
 
@@ -32,15 +34,15 @@ Given that only Thomas High School's ninth grade scores were cleaned to adjust i
 
 ### Scores by School Spending
 
-* The aggregation for this result was performed with bins, and given Thomas High School's school spending per student of $638, bin "$630-$644" was negatively affected by the cleaning of the data.
+* The aggregation for this result was performed with bins, and given Thomas High School's school spending per student of $638, bin "$630-$644" metric for PM was negatively affected by the cleaning of the data.
 
 ### Scores by School Size
 
-* The aggregation for this result was performed with bins, and given Thomas High School's total student count of 1636 (which implies a classification of size as "Medium"), the "Medium" bin was negatively affected by the cleaning of the data.
+* The aggregation for this result was performed with bins, and given Thomas High School's total student count of 1636 (which implies a classification of size as "Medium"), the "Medium" bin was negatively affected by the cleaning of the data, but the alteration after rounding the result, was not significant enough to imply a relevant diference in the final metric.
 
 ### Scores by School Type
 
-* The aggregation for this result was performed on school type, and given that Thomas High School is a "Charter", that category's results were negatively affected by the cleaning of the data.
+* The aggregation for this result was performed on school type, and given that Thomas High School is a "Charter", that category's results were negatively affected by the cleaning of the data, but the alteration after rounding the result, was not significant enough to imply a relevant diference in the final metric.
 
 ## Summary
 
