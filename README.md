@@ -24,7 +24,7 @@ Given that only Thomas High School's ninth grade scores were cleaned to adjust i
 
 ### Thomas High School's Performance Relative to Other Schools
 
-* Thomas High School's performance, as measured by Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP), were negatively affected by the cleaning of the data in four out of five metrics.
+* Thomas High School's performance, as measured by Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP), were negatively affected by the cleaning of the data in four out of five metrics (that is, all but ARS).
 
 ### Math and Reading Scores by Grade
 
