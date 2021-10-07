@@ -51,6 +51,6 @@ Given that only Thomas High School's ninth grade scores were cleaned to adjust i
 1) District Summary's results in the original analysis for the metrics AMS, PM, PR, and OP, decreased by 0.1, 0.2, 0.1, and 0.3, respectively, in the new analysis.
 2) In Schools Summary, Thomas High School's results in the original analysis for the metrics PM, PR, and OP, decreased by 0.1, 0.3, and 0.4, respectively, in the new analysis.
 3) In Scores by School Spending Size, bin "$630-$644"'s results for the metric PM decreased by 1.0 when rounded up to the ones.
-4) On the rest of the results, differences in metrics between the original and new analysis were not considerable enough to create alterations in the final metrics.(see **Note** above)
+4) On the rest of the results, differences in metrics between the original and new analysis were not considerable enough to create alterations in the final metrics. (see **Note** above)
 
 
