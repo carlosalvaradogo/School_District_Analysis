@@ -10,6 +10,17 @@ The purpose of the original School District Analysis, corresponding to the PyCit
 
 The purpose of the Challenge was to clean the information used in the original School District Analysis, so as to account for incorrect information concerning Thomas High School's ninth grade students scores, then, perform a new analysis, and finally, contrast the results of the new analysis with the original one.
 
+### Cleaning the data
+
+The incorrect data associated with Thomas High School's ninth grade math and reading scores was replaced with "Nan" using the "loc" method available for pandas dataframes using the following code:
+
+```
+student_data_df.loc[(student_data_df["school_name"]=="Thomas High School")&(student_data_df["grade"]=="9th"), "reading_score"]=np.nan
+
+student_data_df.loc[(student_data_df["school_name"]=="Thomas High School")&(student_data_df["grade"]=="9th"), "math_score"]=np.nan
+
+```
+
 ## Results
 
 The pertinent metrics associated with most of the results are Total Students (TS), Per Student Budget (SB), Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP). 
