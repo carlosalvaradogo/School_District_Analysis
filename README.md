@@ -14,12 +14,14 @@ The purpose of the Challenge was to clean the information used in the original S
 
 The incorrect data associated with Thomas High School's ninth grade math and reading scores was replaced with "Nan" using the "loc" method available for pandas dataframes using the following code:
 
+
 ```
 student_data_df.loc[(student_data_df["school_name"]=="Thomas High School")&(student_data_df["grade"]=="9th"), "reading_score"]=np.nan
 
 student_data_df.loc[(student_data_df["school_name"]=="Thomas High School")&(student_data_df["grade"]=="9th"), "math_score"]=np.nan
 
 ```
+
 
 ## Results
 
