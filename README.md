@@ -12,6 +12,8 @@ The purpose of the Challenge was to clean the information used in the original S
 
 ## Results
 
+Given that only Thomas High School's ninth grade scores were cleaned to adjust incorrect information, out of the 7 metrics associated with each school, Total Students and Spending per Student were not affected at any level by the alteration of the data. In consequence, in what remains of this section, these two metrics will not be addressed.
+
 ### District Summary
 
 * Given that the District Summary represents aggregation up to the district level, the original results were affected by the cleaning of the data.
