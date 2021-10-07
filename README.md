@@ -16,15 +16,15 @@ Given that only Thomas High School's ninth grade scores were cleaned to adjust i
 
 ### District Summary
 
-* Given that the District Summary represents aggregation up to the district level, the original results were affected by the cleaning of the data.
+* Given that the District Summary represents aggregation up to the district level, the original results were negatively affected by the cleaning of the data.
 
 ### School Summary
 
-* Given that the School Summary represents aggregation up to the school level, only Thomas High School's results were affected by the cleaning of the data.
+* Given that the School Summary represents aggregation up to the school level, only Thomas High School's results were negatively affected by the cleaning of the data.
 
 ### Thomas High School's Performance Relative to Other Schools
 
-* Thomas High School's performance, as measured by Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP), were negatively affected by the cleaning of the data in four out of five metrics (that is, all but ARS).
+* Thomas High School's performance, as measured by Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP), was negatively affected by the cleaning of the data in four out of five metrics (that is, all but ARS).
 
 ### Math and Reading Scores by Grade
 
@@ -32,15 +32,15 @@ Given that only Thomas High School's ninth grade scores were cleaned to adjust i
 
 ### Scores by School Spending
 
-* The aggregation for this result was performed with bins, and given Thomas High School's school spending per student of $638, the only bin affected by the cleaning of the data was "$630-$644".
+* The aggregation for this result was performed with bins, and given Thomas High School's school spending per student of $638, bin "$630-$644" was negatively affected by the cleaning of the data.
 
 ### Scores by School Size
 
-* The aggregation for this result was performed with bins, and given Thomas High School's total student count of 1636 (which implies a classification of size as "Medium"), the only bin affected by the cleaning of the data was the "Medium" bin.
+* The aggregation for this result was performed with bins, and given Thomas High School's total student count of 1636 (which implies a classification of size as "Medium"), the "Medium" bin was negatively affected by the cleaning of the data.
 
 ### Scores by School Type
 
-* The aggregation for this result was performed on school type, and given that Thomas High School is a "Charter", only that category's results were affected by the cleaning of the data.
+* The aggregation for this result was performed on school type, and given that Thomas High School is a "Charter", that category's results were negatively affected by the cleaning of the data.
 
 ## Summary
 
