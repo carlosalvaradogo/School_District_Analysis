@@ -14,7 +14,7 @@ The purpose of the Challenge was to clean the information used in the original S
 
 The pertinent metrics associated with most of the results are Total Students (TS), Per Student Budget (SB), Average Math Scores (AMS), Average Reading Scores (ARS), % Passing Math (PM), % Passing Reading (PR), and % Overral Passing (OP). 
 
-Given that only Thomas High School's ninth grade scores were cleaned to adjust incorrect information, and these are involved only in the calculation of AMS, ARS, PM, PR, and OP, both TS and SB will not be addressed in the remaining of this section, as results for these two metrics in the new analysis were identical to those made previously in the original analysis. (Note that this implies that for all results related to AMS, ARS, PM, PR, and OP, the cleaning of the data did produce an alteration on the metric. However, not in all cases was the alteration significant enough as to create a difference in the final metric because the final metric was rounded for presentation purposes.) Any omission of the aforementioned 5 metrics in the following subsections is to be interpreted as implying that the metric did not sufffer significant changes in the new analysis.
+Given that only Thomas High School's ninth grade scores were cleaned to adjust incorrect information, and these are involved only in the calculation of AMS, ARS, PM, PR, and OP, both TS and SB will not be addressed in the remaining of this section, as results for these two metrics in the new analysis were identical to those made previously in the original analysis. (**Note**: that this implies that for all results related to AMS, ARS, PM, PR, and OP, the cleaning of the data did produce an alteration on the metric. However, not in all cases was the alteration significant enough as to create a difference in the final metric because the final metric was rounded for presentation purposes.) Any omission of the aforementioned 5 metrics in the following subsections is to be interpreted as implying that the metric did not sufffer significant changes in the new analysis.
 
 ### District Summary
 
@@ -38,11 +38,11 @@ Given that only Thomas High School's ninth grade scores were cleaned to adjust i
 
 ### Scores by School Size
 
-* The aggregation for this result was performed with bins, and given Thomas High School's total student count of 1636 (which implies a classification of size as "Medium"), the "Medium" bin was negatively affected by the cleaning of the data, but the alteration after rounding the result, was not significant enough to imply a relevant diference in the final metric.
+* The aggregation for this result was performed with bins, and given Thomas High School's total student count of 1636 (which implies a classification of size as "Medium"), the "Medium" bin was negatively affected by the cleaning of the data, but the alteration was not significant enough to imply a relevant diference in the final metric. (see **Note** above)
 
 ### Scores by School Type
 
-* The aggregation for this result was performed on school type, and given that Thomas High School is a "Charter", that category's results were negatively affected by the cleaning of the data, but the alteration after rounding the result, was not significant enough to imply a relevant diference in the final metric.
+* The aggregation for this result was performed on school type, and given that Thomas High School is a "Charter", that category's results were negatively affected by the cleaning of the data, but the alteration was not significant enough to imply a relevant diference in the final metric. (see **Note** above)
 
 ## Summary
 
@@ -51,6 +51,6 @@ Given that only Thomas High School's ninth grade scores were cleaned to adjust i
 1) District Summary's results in the original analysis for the metrics AMS, PM, PR, and OP, decreased by 0.1, 0.2, 0.1, and 0.3, respectively, in the new analysis.
 2) In Schools Summary, Thomas High School's results in the original analysis for the metrics PM, PR, and OP, decreased by 0.1, 0.3, and 0.4, respectively, in the new analysis.
 3) In Scores by School Spending Size, bin "$630-$644"'s results for the metric PM decreased by 1.0 when rounded up to the ones.
-4) On the rest of the results, differences in metrics between the original and new analysis were not considerable enough to create alterations after rounding the numbers.
+4) On the rest of the results, differences in metrics between the original and new analysis were not considerable enough to create alterations in the final metrics.(see **Note** above)
 
 
